@@ -1,0 +1,17 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Curso de ECMASCript con Oscar Barajas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "ecma"
+  ],
+  "author": "Juan Camilo Campo <juanccampo@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
