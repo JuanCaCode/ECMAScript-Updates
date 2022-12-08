@@ -11,3 +11,10 @@ const it = iterate(['juan','carlos','david','ana','isabela','karen','diego']);
 console.log(it.next().value);
 console.log(it.next().value);
 console.log(it.next().value);
+
+function* idGenerator(){
+    let id = 1
+    while(true){
+        yield id ++
+    }
+}
