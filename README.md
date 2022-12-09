@@ -28,3 +28,9 @@ By the way, these are my personal notes about this updates. and I invite you to 
 - String Padding
 - Trailing Commas
 - Async Functions
+
+## ECMASCRIPT 9 (2018)
+- Regex
+- Spread (update)
+- Finally
+- Async (update)
