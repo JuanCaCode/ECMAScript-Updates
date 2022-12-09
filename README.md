@@ -34,3 +34,9 @@ By the way, these are my personal notes about this updates. and I invite you to 
 - Spread (update)
 - Finally
 - Async (update)
+
+## ECMASCRIPT 10 (2019)
+- Flat-Map
+- Trim Start y End
+- Try Catch
+- From entries
