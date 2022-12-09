@@ -40,3 +40,12 @@ By the way, these are my personal notes about this updates. and I invite you to 
 - Trim Start y End
 - Try Catch
 - From entries
+
+## ECMASCRIPT 11 (2020)
+- Optional Chaining
+- Big Ints
+- Nullish
+- Promise allSettled & all
+- Globalthis
+- Match All
+- Dynamic Imports with modules
