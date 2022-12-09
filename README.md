@@ -49,3 +49,9 @@ By the way, these are my personal notes about this updates. and I invite you to 
 - Globalthis
 - Match All
 - Dynamic Imports with modules
+
+## ECMASCRIPT 12 (2021)
+- Numeric Separator 100_000
+- Replace All
+- Promises Any
+- Private methods
